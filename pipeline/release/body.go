@@ -11,7 +11,7 @@ import (
 const bodyTemplate = `{{ .ReleaseNotes }}
 
 ---
-Automated with @goreleaser
+Automated with GoReleaser
 Built with {{ .GoVersion }}
 `
 

@@ -1,3 +1,7 @@
+THIS IS A FORK OF [GoReleaser](https://github.com/goreleaser/goreleaser)
+
+Why? I'm uncomfortable using this excellent tool in private repositories because it appends a mention pointing back at their github. This fork may be pointless, but to be honest I don't understand how github mentions work for private organizations. 
+
 <p align="center">
   <img alt="GoReleaser Logo" src="https://avatars2.githubusercontent.com/u/24697112?v=3&s=200" height="140" />
   <h3 align="center">GoReleaser</h3>
