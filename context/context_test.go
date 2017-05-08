@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/goreleaser/goreleaser/config"
+	"github.com/lordnynex/goreleaser/config"
 	"github.com/stretchr/testify/assert"
 )
 

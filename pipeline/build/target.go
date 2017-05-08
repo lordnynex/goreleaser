@@ -5,7 +5,7 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/goreleaser/goreleaser/context"
+	"github.com/lordnynex/goreleaser/context"
 )
 
 var runtimeTarget = buildTarget{runtime.GOOS, runtime.GOARCH, ""}

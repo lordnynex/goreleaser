@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/goreleaser/goreleaser/config"
+	"github.com/lordnynex/goreleaser/config"
 )
 
 // GitInfo includes tags and diffs used in some point

@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"os"
 
-	"github.com/goreleaser/goreleaser/context"
+	"github.com/lordnynex/goreleaser/context"
 )
 
 // Info of the repository

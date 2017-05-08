@@ -9,18 +9,18 @@ import (
 
 	"fmt"
 
-	"github.com/goreleaser/goreleaser/config"
-	"github.com/goreleaser/goreleaser/context"
-	"github.com/goreleaser/goreleaser/pipeline"
-	"github.com/goreleaser/goreleaser/pipeline/archive"
-	"github.com/goreleaser/goreleaser/pipeline/brew"
-	"github.com/goreleaser/goreleaser/pipeline/build"
-	"github.com/goreleaser/goreleaser/pipeline/checksums"
-	"github.com/goreleaser/goreleaser/pipeline/defaults"
-	"github.com/goreleaser/goreleaser/pipeline/env"
-	"github.com/goreleaser/goreleaser/pipeline/fpm"
-	"github.com/goreleaser/goreleaser/pipeline/git"
-	"github.com/goreleaser/goreleaser/pipeline/release"
+	"github.com/lordnynex/goreleaser/config"
+	"github.com/lordnynex/goreleaser/context"
+	"github.com/lordnynex/goreleaser/pipeline"
+	"github.com/lordnynex/goreleaser/pipeline/archive"
+	"github.com/lordnynex/goreleaser/pipeline/brew"
+	"github.com/lordnynex/goreleaser/pipeline/build"
+	"github.com/lordnynex/goreleaser/pipeline/checksums"
+	"github.com/lordnynex/goreleaser/pipeline/defaults"
+	"github.com/lordnynex/goreleaser/pipeline/env"
+	"github.com/lordnynex/goreleaser/pipeline/fpm"
+	"github.com/lordnynex/goreleaser/pipeline/git"
+	"github.com/lordnynex/goreleaser/pipeline/release"
 )
 
 var pipes = []pipeline.Pipe{

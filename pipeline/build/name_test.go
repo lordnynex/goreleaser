@@ -3,9 +3,9 @@ package build
 import (
 	"testing"
 
-	"github.com/goreleaser/goreleaser/config"
-	"github.com/goreleaser/goreleaser/context"
-	"github.com/goreleaser/goreleaser/pipeline/defaults"
+	"github.com/lordnynex/goreleaser/config"
+	"github.com/lordnynex/goreleaser/context"
+	"github.com/lordnynex/goreleaser/pipeline/defaults"
 	"github.com/stretchr/testify/assert"
 )
 

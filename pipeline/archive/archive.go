@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/goreleaser/goreleaser/context"
-	"github.com/goreleaser/goreleaser/pipeline/archive/tar"
-	"github.com/goreleaser/goreleaser/pipeline/archive/zip"
+	"github.com/lordnynex/goreleaser/context"
+	"github.com/lordnynex/goreleaser/pipeline/archive/tar"
+	"github.com/lordnynex/goreleaser/pipeline/archive/zip"
 	"golang.org/x/sync/errgroup"
 )
 

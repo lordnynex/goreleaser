@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/goreleaser/goreleaser/config"
-	"github.com/goreleaser/goreleaser/context"
+	"github.com/lordnynex/goreleaser/config"
+	"github.com/lordnynex/goreleaser/context"
 	"github.com/stretchr/testify/assert"
 )
 

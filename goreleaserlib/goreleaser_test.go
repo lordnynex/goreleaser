@@ -10,7 +10,7 @@ import (
 
 	yaml "gopkg.in/yaml.v1"
 
-	"github.com/goreleaser/goreleaser/config"
+	"github.com/lordnynex/goreleaser/config"
 	"github.com/stretchr/testify/assert"
 )
 

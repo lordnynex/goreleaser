@@ -5,7 +5,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/goreleaser/goreleaser/context"
+	"github.com/lordnynex/goreleaser/context"
 )
 
 type ldflagsData struct {

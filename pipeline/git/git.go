@@ -12,7 +12,7 @@ import (
 
 	"text/template"
 
-	"github.com/goreleaser/goreleaser/context"
+	"github.com/lordnynex/goreleaser/context"
 )
 
 // ErrInvalidVersionFormat is return when the version isnt in a valid format
